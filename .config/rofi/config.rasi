@@ -1,0 +1,14 @@
+@theme "./themes/gruvbox-dark-hard.rasi"
+
+configuration {
+    show-icons:      true;
+    icon-theme:      "Papirus-Dark";
+    display-drun:    "";
+    disable-history: false;
+    font: "CaskaydiaMono Nerd Font 11";
+}
+
+#window {
+    border-radius:    10;
+    border-color: #b8bb26;
+}
